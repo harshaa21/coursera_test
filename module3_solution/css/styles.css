@@ -89,7 +89,7 @@ body {
     margin-bottom: 1em;
 }
 
-#chicken-tile, #beef-tile, #sushi-tile {
+#a-tile, #b-tile, #m-tile {
     width: 100%;
     padding: 20px;
     background-color: #99ed7b;
