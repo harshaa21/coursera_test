@@ -1,5 +1,3 @@
-
-
 *{
 	font-family: Times new roman;
 }
@@ -94,7 +92,7 @@ body {
 }
 
 #main-section {
-    background-color: #82d06b;
+    background-color: pink;
     box-shadow: 0 0 50px #0f5900;
     padding: 30px;
 }
