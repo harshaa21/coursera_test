@@ -10,7 +10,7 @@ body {
 }
 
 
-/** HEADER **/
+
 
 #header-nav {
     background-color: #c98715;
@@ -37,8 +37,8 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #7d1913;
-    font-family: 'Abril Fatface', cursive;
+    color: maroon;
+   
     font-weight: bolder;
     font-size: 1.8em;
 }
@@ -64,14 +64,10 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #7d1913;
+    border: 1px solid maroon;
 }
 
 
-/** END HEADER */
-
-
-/** HOME PAGE **/
 
 #main-content {
     width: 92%;
@@ -93,8 +89,7 @@ body {
 
 #main-section {
     background-color: pink;
-    box-shadow: 0 0 50px #0f5900;
+    
     padding: 30px;
 }
 
-/** END HOME PAGE **/
